@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chengxin2020211001000630:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>chengxin2020211001000630</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="chengxin2020211001000630-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="chengxin2020211001000630:war exploded" />
+    </root>
+  </artifact>
+</component>
